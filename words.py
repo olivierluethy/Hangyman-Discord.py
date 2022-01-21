@@ -1,0 +1,10 @@
+words = ["stein", "haus", "bruecke", "eimer", "dach",
+         "freund", "freundin", "ex-freund", "ex-freundin", "alkohol", "atmung", "papier", "toilette",
+         "schmetterling", "wasser", "tee", "erde", "computer", "festplatte", "prozessor", "netzteil",
+         "strom", "bauernhof", "kuh", "schaf", "ziege", "milch", "honig", "kaese", "kuchen", "brot",
+         "bier", "geld", "leben", "jahr", "welt", "regierung", "mann", "frauen", "mitarbeiter", "kosten",
+         "erfolg", "monat", "tag", "stunde", "minute", "sekunde", "entwicklung", "montag",
+         "dienstag", "mittwoch", "donnerstag", "freitag", "samstag", "sonntag", "wochenende",
+         "wochentag", "gruen", "gelb", "orange", "rot", "frage", "fall", "kinder", "grosseltern",
+         "grossmutter", "grossvater", "bruder", "schwester", "cousin", "cousinne", "land", "stadt",
+         "gemeinde", "kontinent", "equator", "zenit", "gold", "silber", "bronze"]
